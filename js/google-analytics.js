@@ -1,5 +1,5 @@
 /**
- * Load the Google Analytics Tracking code
+ xx* Load the Google Analytics Tracking code
  */
 window._gaq = [['_setAccount', analytics_object.gatrackingid],['_trackPageview'],['_trackPageLoadTime']];
 Modernizr.load({
